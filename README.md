@@ -27,4 +27,4 @@ actual_productivity
 ## Results
 
 #### Actual productivity per day
-![My Image](Capture1.png)
+![My Image](CAPTURE 1.PNG)
