@@ -29,8 +29,10 @@ actual_productivity
 #### Actual productivity per day
 ![My Image](https://github.com/Gloria-L19/Possible-data-sets/blob/main/Capture%201.PNG)
 
-![My Image]()
+![My Image](https://github.com/Gloria-L19/Possible-data-sets/blob/main/Capture%202.PNG)
 >Comparing the graphs above, the actual productivity achieved per day is different from the targeted productivity
+
+![My Image] ()
 
 ## Model
 I will take the Random Forest model for this project. The R2 score explain 46.25% of the variation in the actual_productivity. The MAE shows 7% difference between the predicted and actual values. The RMSE shows that the prediction made on average differ by 4.6% from the actual values.
