@@ -29,11 +29,15 @@ actual_productivity
 #### Actual productivity per day
 ![My Image](https://github.com/Gloria-L19/Possible-data-sets/blob/main/Capture%201.PNG)
 
+Targeted Productiviy per day
+
 ![My Image](https://github.com/Gloria-L19/Possible-data-sets/blob/main/Capture%202.PNG)
+
 Comparing the graphs above, the actual productivity achieved per day is different from the targeted productivity
 
+Box plot comparing the actual productivity of the sweing and finishing
 ![My Image](https://github.com/Gloria-L19/Possible-data-sets/blob/main/Capture%203.PNG)
-1.   The median for the finishing department is higher than that of sweing meaning that the productivi
+1.   The median for the finishing department is higher than that of sweing 
 2.   The interquartile range for the finishing department is higher than that of sweing
 3.   The sweing department has plenty of outliers
 
