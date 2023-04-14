@@ -1,4 +1,4 @@
-# Determing ActualProductivity
+# Determing Actual Productivity
 ## The project is about determining the actual productivity attainedcompared to the targeted productivity based on the different factors affecting production
 
 **Author**:LAMUNU GLORIA
@@ -12,7 +12,7 @@ the end of the day or quarter usually differs from the target and can be affecte
 date, quarter,department, day, team, targeted_productivity, smv, wip, overtime, incentive, idle_time, idle_men, no_of_style_change, no_of_workers, 
 actual_productivity
 
-##Methods
+## Methods
 - Importing librariries and data
 - Exploring the data and analysing the data using data visualiation techniques like bar graphs, histograms, boxplots
 - THe data was split into the training set and the testing set
@@ -24,4 +24,5 @@ actual_productivity
 - The random forest model was fine tuned and evaluated again
 - The best model was selected
 
-##Results
+## Results
+
